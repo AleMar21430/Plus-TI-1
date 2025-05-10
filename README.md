@@ -6,4 +6,4 @@
 
 - Se agregaron variables helper
 - Se limpió la data y ordenó
-- Ae filtró / categorizó por si fue en establecimientos de entrtenamiento
+- Se filtró / categorizó por si fue en establecimientos de entrtenamiento
