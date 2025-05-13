@@ -7,3 +7,5 @@
 - Se agregaron variables helper
 - Se limpió la data y ordenó
 - Se filtró / categorizó por si fue en establecimientos de entrtenamiento
+- Se generó una función para evaluar
+- Se entrenó
